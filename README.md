@@ -2,6 +2,8 @@
 
 Este é um projeto desenvolvido como parte do curso [HTML e CSS: praticando HTML/CSS] da Alura. O projeto consiste em um site informativo sobre o Alura Plus, destacando seus benefícios e recursos.
 
+Para o utilizar, clique no link a seguir: https://alura-plus-black-chi.vercel.app/
+
 ## Tecnologias Utilizadas
 
 - HTML5
